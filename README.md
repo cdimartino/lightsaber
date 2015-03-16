@@ -53,7 +53,8 @@ Each Day you will want to fetch from base to get the days challenge.
 
 ```
 $ git fetch base
-$ git co day-1
+$ git co -b day-1
+$ git merge base/day-2
 $ git push origin day-1
 ```
 
