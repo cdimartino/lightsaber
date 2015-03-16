@@ -13,4 +13,4 @@ Today's challenge is as follows:
 
 Commit all of your code to the day-1 branch on your respository. Then submit a pull request to the nyc-sea-lions-2015 master branch. In the pull request comment @ your Phase 2 instructor, and your Cohort lead.
 
-
+![pull-request](pull-request.png)
